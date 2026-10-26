@@ -2,7 +2,7 @@
 
 **Daily fare comparison of European railway ticket sellers – open data (CC BY 4.0)**
 
-🌐 Results per route: **https://sametrain.eu** · 📄 Citable dataset: on Zenodo (DOI follows with the first release)
+🌐 Results per route: **https://sametrain.eu** · 📄 Citable dataset: [10.5281/zenodo.23669337](https://doi.org/10.5281/zenodo.23669337)
 
 Many European trains can be booked on several websites: the railway of the departure country, the railway of the
 destination country, sometimes a transit railway or a reseller. This dataset records every day whether they charge
@@ -87,7 +87,7 @@ account. No guarantee of accuracy.
 Data: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Please credit
 “Train Price Comparison (sametrain.eu)” with a link to https://sametrain.eu, or cite:
 
-> Ferdinand Frey (2026). *Same train, different price: daily fare comparison of European railway sellers* (Version 2026-10-18) [Data set]. https://sametrain.eu
+> Ferdinand Frey (2026). *Same train, different price: daily fare comparison of European railway sellers* (Version 2026-10-18) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.23669337
 
 University project, Data Analysis course, Vilnius University, 2026. Feedback: https://sametrain.eu/en/feedback.html
 

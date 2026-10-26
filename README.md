@@ -3,6 +3,7 @@
 **Daily fare comparison of European railway ticket sellers – open data (CC BY 4.0)**
 
 🌐 Results per route: **https://sametrain.eu** · 📄 Citable dataset: [10.5281/zenodo.23669337](https://doi.org/10.5281/zenodo.23669337)
+· Mirrors: [GitHub](https://github.com/UrzasMine/same-train-different-price) · [Kaggle](https://www.kaggle.com/datasets/ferdinandfrey/european-train-fares-same-train)
 
 Many European trains can be booked on several websites: the railway of the departure country, the railway of the
 destination country, sometimes a transit railway or a reseller. This dataset records every day whether they charge

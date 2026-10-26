@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below and link to https://sametrain.eu."
+type: dataset
+title: "Same train, different price: daily fare comparison of European railway sellers"
+version: "2026-10-18"
+date-released: "2026-10-26"
+license: CC-BY-4.0
+url: "https://sametrain.eu"
+authors:
+  - family-names: "Frey"
+    given-names: "Ferdinand"
+    affiliation: "Vilnius University"
+keywords:
+  - rail fares
+  - price comparison
+  - Europe

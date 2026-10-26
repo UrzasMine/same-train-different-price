@@ -1,0 +1,44 @@
+{
+  "title": "Same train, different price: daily fare comparison of European railway sellers",
+  "upload_type": "dataset",
+  "version": "2026-10-18",
+  "description": "<p>Do railway ticket sellers charge the same price for the same train? This dataset compares the fares that 12 sellers (national railways and the reseller Omio) show for identical European train connections on 76 routes, checked on the same day. Every day an automated browser searches each seller's website for travel 1, 7, 21 and 42 days ahead and stores the lowest fare shown for 1 adult, 2nd class, without discount card.</p><p>Version 2026-10-18: 3114 rows (one per train and seller), checks from 2026-10-13 to 2026-10-18. Semicolon-separated CSV with decimal comma. Only checks at least 7 days old are included.</p><p>Results per route and full method: <a href=\"https://sametrain.eu\">https://sametrain.eu</a></p>",
+  "creators": [
+    {
+      "name": "Frey, Ferdinand",
+      "affiliation": "Vilnius University"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "language": "eng",
+  "keywords": [
+    "rail fares",
+    "train tickets",
+    "price comparison",
+    "Europe",
+    "ticket sellers",
+    "dynamic pricing",
+    "booking lead time",
+    "web scraping",
+    "transport economics"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://sametrain.eu/en/index.html",
+      "relation": "isDocumentedBy",
+      "resource_type": "other"
+    },
+    {
+      "identifier": "https://sametrain.eu/en/methodik.html",
+      "relation": "isDescribedBy",
+      "resource_type": "other"
+    }
+  ],
+  "dates": [
+    {
+      "type": "Collected",
+      "start": "2026-10-13",
+      "end": "2026-10-18"
+    }
+  ]
+}
